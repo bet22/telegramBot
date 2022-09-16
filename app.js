@@ -22,6 +22,7 @@ btn1.addEventListener("click", function(){
 		tg.MainButton.setText("Вы выбрали товар 1!");
 		item = "1";
 		tg.MainButton.show();
+		tg.MainButton.isActive;
 	}
 });
 
@@ -33,6 +34,7 @@ btn2.addEventListener("click", function(){
 		tg.MainButton.setText("Вы выбрали товар 2!");
 		item = "2";
 		tg.MainButton.show();
+		tg.MainButton.isActive
 	}
 });
 
@@ -44,6 +46,7 @@ btn3.addEventListener("click", function(){
 		tg.MainButton.setText("Вы выбрали товар 3!");
 		item = "3";
 		tg.MainButton.show();
+		tg.MainButton.isActive
 	}
 });
 
@@ -55,6 +58,7 @@ btn4.addEventListener("click", function(){
 		tg.MainButton.setText("Вы выбрали товар 4!");
 		item = "4";
 		tg.MainButton.show();
+		tg.MainButton.isActive
 	}
 });
 
@@ -66,6 +70,7 @@ btn5.addEventListener("click", function(){
 		tg.MainButton.setText("Вы выбрали товар 5!");
 		item = "5";
 		tg.MainButton.show();
+		tg.MainButton.isActive
 	}
 });
 
@@ -77,6 +82,7 @@ btn6.addEventListener("click", function(){
 		tg.MainButton.setText("Вы выбрали товар 6!");
 		item = "6";
 		tg.MainButton.show();
+		tg.MainButton.isActive
 	}
 });
 
